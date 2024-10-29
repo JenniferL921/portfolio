@@ -45,7 +45,7 @@ h3{
   background-color: blue;
 }
 
-@media screen and (max-width: 500px){
+@media screen and (max-width: 400px){
   .navigation a{
     float: none;
     display: block;
