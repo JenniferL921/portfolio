@@ -20,14 +20,15 @@ h3{
   font-family: verdana;
 }
 
-#navigation{
+.navigation{
   text-align: center;
   font-family: verdana;
 }
 
 @media screen and (max-width: 500px){
-  #navigation a{
+  .navigation a{
     float: none;
     display: block;
     width: 100%;
+    text-align: left;
   }
