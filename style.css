@@ -23,10 +23,10 @@ h3{
 
 nav{
   position: fixed;
-  top: 0;
   width: 100%;
   background-color: lightgray;
   text-align: center;
+  overflow: auto;
 }
 
 nav ul{
@@ -41,16 +41,18 @@ nav ul li{
 nav ul li a{
   color: white;
   text-decoration: none;
+  text-align: center;
 }
 
 nav ul li a:hover{
   text-decoration: underline;
-  color: lightblue;
+  color: blue;
 }
 
 section{
   padding: 80px 20px;
   min-height: 100vh;
+  text-align: center;
 }
 
 html{
