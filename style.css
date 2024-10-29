@@ -23,6 +23,7 @@ h3{
 .navigation{
   width: 100%;
   background-color: lightgray;
+  overflow: auto;
   font-family: verdana;
 }
 
@@ -32,7 +33,7 @@ h3{
   color: white;
   text-decoration: none;
   font-size: 17px;
-  width: 20%;
+  width: 18%;
   text-align: center;
 }
 
