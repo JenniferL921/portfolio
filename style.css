@@ -35,6 +35,7 @@ body{
   color: white;
   text-decoration: none;
   text-align: center;
+  font-weight: bold;
 }
 
 .navbar ul li a:hover{
