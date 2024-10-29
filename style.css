@@ -25,6 +25,8 @@ h3{
   background-color: lightgray;
   overflow: auto;
   font-family: verdana;
+  padding-left: 12px;
+  padding-right: 12px;
 }
 
 .navigation a{
