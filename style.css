@@ -41,8 +41,8 @@ h3{
   background-color: gray;
 }
 
-.navigation a.active{
-  background-color: blue;
+.navigation a:active{
+  background-color: lightblue;
 }
 
 @media screen and (max-width: 500px){
