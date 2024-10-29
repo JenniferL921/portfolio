@@ -22,6 +22,7 @@ h3{
 }
 
 nav{
+  position: fixed;
   width: 100%;
   background-color: lightgray;
   text-align: center;
