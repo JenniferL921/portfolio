@@ -38,7 +38,7 @@ h3{
 }
 
 .navigation a:hover{
-  background-color: lightblue;
+  background-color: gray;
 }
 
 .navigation a.active{
