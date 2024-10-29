@@ -21,8 +21,11 @@ h3{
   text-align: center;
 }
 
-nav{
-  position: fixed;
+.navbar{
+  position: sticky;
+  padding: 10px 0;
+  top: 0;
+  z-index: 1000;
   width: 100%;
   background-color: lightgray;
   text-align: center;
