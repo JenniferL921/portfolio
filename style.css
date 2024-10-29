@@ -32,22 +32,24 @@ h3{
   overflow: auto;
 }
 
-nav ul{
+.navbar ul{
   list-style-type: none;
+  justify-content: space-around;
+  display: flex;
 }
 
-nav ul li{
+.navbar ul li{
   display: inline;
   margin: 0 15px;
 }
 
-nav ul li a{
+.navbar ul li a{
   color: white;
   text-decoration: none;
   text-align: center;
 }
 
-nav ul li a:hover{
+.navbar ul li a:hover{
   text-decoration: underline;
   color: blue;
 }
