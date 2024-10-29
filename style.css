@@ -21,7 +21,7 @@ h3{
 }
 
 .navigation{
-  width: 700px;
+  width: 100%;
   background-color: lightgray;
   overflow: auto;
   font-family: verdana;
