@@ -3,6 +3,8 @@ body{
   height: 100%;
   font-family: verdana, sans-serif;
   line-height: 1.6;
+  margin: 0;
+  padding: 0;
 }
 
 #banner{
