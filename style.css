@@ -49,6 +49,11 @@
   text-decoration: underline;
 }
 
+.navbar ul li a:visited{
+  text-decoration: underline;
+}
+
+
 section{
   padding: 80px 20px;
   min-height: 100vh;
