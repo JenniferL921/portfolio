@@ -20,7 +20,7 @@
   top: 0;
   z-index: 1000;
   width: 100%;
-  background-color: lightgray;
+  background-color: gray;
   text-align: center;
   overflow: hidden;
   margin: 0;
@@ -47,12 +47,12 @@
 
 .navbar ul li a:hover{
   text-decoration: underline;
-  color: black;
+  background-color: lightgray;
 }
 
 section{
   padding: 80px 20px;
-  min-height: 100vh;
+  min-height: 100 vh;
   text-align: center;
 }
 
