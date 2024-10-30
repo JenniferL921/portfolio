@@ -1,4 +1,10 @@
-body{
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+  
+  body{
   width: 100%;
   height: 100%;
   font-family: verdana, sans-serif;
@@ -17,8 +23,7 @@ body{
   background-color: lightgray;
   text-align: center;
   overflow: hidden;
-  margin: 0;
-  height: 50px;
+  padding: 10px 0;
 }
 
 .navbar ul{
