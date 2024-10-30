@@ -3,8 +3,6 @@ body{
   height: 100%;
   font-family: verdana, sans-serif;
   line-height: 1.6;
-  margin: 0;
-  padding: 0;
 }
 
 #banner{
@@ -19,14 +17,13 @@ body{
   background-color: lightgray;
   text-align: center;
   overflow: auto;
+  margin: 0;
 }
 
 .navbar ul{
   list-style-type: none;
   justify-content: space-around;
   display: flex;
-  padding: 0;
-  margin: 0;
 }
 
 .navbar ul li{
