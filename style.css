@@ -11,7 +11,6 @@ body{
 
 .navbar{
   position: sticky;
-  padding-left: 0;
   top: 0;
   z-index: 1000;
   width: 100%;
@@ -24,6 +23,8 @@ body{
   list-style-type: none;
   justify-content: space-around;
   display: flex;
+  padding: 0;
+  margin: 0;
 }
 
 .navbar ul li{
