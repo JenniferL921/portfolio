@@ -24,7 +24,7 @@
   text-align: center;
   overflow: hidden;
   margin: 0;
-  padding: 10px;
+  padding: 10px 0;
 }
 
 .navbar ul{
@@ -48,7 +48,6 @@
 .navbar ul li a:hover{
   text-decoration: underline;
   color: black;
-  background-color: gray;
 }
 
 section{
