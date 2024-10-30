@@ -16,8 +16,10 @@ body{
   width: 100%;
   background-color: lightgray;
   text-align: center;
-  overflow: auto;
+  overflow: hidden;
   margin: 0;
+  padding: 10px 0;
+  hieght: 50px;
 }
 
 .navbar ul{
