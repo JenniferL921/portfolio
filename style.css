@@ -60,6 +60,10 @@ section{
   text-align: center;
 }
 
+section h1{
+  text-decoration: bold;
+}
+
 html{
   scroll-bahavior: smooth;
 }
