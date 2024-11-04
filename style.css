@@ -61,12 +61,16 @@ section{
   text-align: center;
 }
 
-section p{
-    font-size: 20px;
+p{
+    font-size: 30px;
 }
 
 h3{
-  40px;
+  font-size: 50px;
+}
+
+h1{
+  font-size: 60px;
 }
 
 html{
