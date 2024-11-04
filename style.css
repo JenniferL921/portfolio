@@ -16,6 +16,10 @@
   font-size: 45px;
 }
 
+#banner h2{
+  font-size: 35px;
+}
+
 .navbar{
   position: sticky;
   top: 0;
