@@ -77,6 +77,10 @@ section h1{
   width: 50%;
 }
 
+.appimg{
+  width: 50%;
+}
+
 html{
   scroll-bahavior: smooth;
 }
