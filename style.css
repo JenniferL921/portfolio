@@ -73,6 +73,11 @@ section h1{
   font-size: 30px;
 }
 
+#resumeImg{
+  width: 50%;
+  height: 600px;
+}
+
 html{
   scroll-bahavior: smooth;
 }
