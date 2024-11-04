@@ -13,6 +13,7 @@
 
 #banner{
   text-align: center;
+  font-size: 45px;
 }
 
 .navbar{
@@ -35,7 +36,7 @@
 
 .navbar ul li{
   display: inline;
-  font-size: 30px;
+  font-size: 40px;
   margin: 0 15px;
 }
 
