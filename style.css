@@ -87,6 +87,10 @@ section h1{
   width: 50%;
 }
 
+section{
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
 html{
   scroll-bahavior: smooth;
 }
