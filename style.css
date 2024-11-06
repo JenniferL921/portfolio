@@ -94,15 +94,15 @@ section h1{
   text-align: center;
 }
 
-a{
+section a{
   color: blue;
 }
 
-a:hover{
+section a:hover{
   text-decoration: underline;
 }
 
-a:visited{
+section a:visited{
   color: purple;
 }
 
