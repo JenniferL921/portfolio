@@ -13,7 +13,7 @@
 
 #banner h1{
   text-align: center;
-  font-size: 40%;
+  font-size: 30px;
 }
 
 #banner h2{
@@ -94,15 +94,15 @@ section h1{
 }
 
 section a{
-  color: blue;
+  color: lightgray;
 }
 
 section a:hover{
-  text-decoration: underline;
+  text-decoration: gray;
 }
 
 section a:visited{
-  color: purple;
+  color: darkgray;
 }
 
 .everything{
