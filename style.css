@@ -9,15 +9,14 @@
   height: 100%;
   font-family: verdana, sans-serif;
   line-height: 1.6;
-  background-color: #ECECEC;
+  background-color: #F2F2F2;
 }
 
 #banner h1{
   text-align: center;
   font-size: 30px;
   height: 100px;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding-top: 10px 0;
 }
 
 #banner h2{
