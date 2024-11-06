@@ -99,7 +99,7 @@ a{
 }
 
 a:hover{
-  color: blue;
+  color: black;
 }
 
 a:visited{
@@ -113,53 +113,3 @@ a:active{
 html{
   scroll-bahavior: smooth;
 }
-
-/*
-.navigation{
-  width: 100%;
-  background-color: lightgray;
-  overflow: auto;
-  font-family: verdana;
-}
-
-.navigation a{
-  float: left;
-  padding: 12px;
-  color: white;
-  text-decoration: none;
-  font-size: 17px;
-  width: 23%;
-  text-align: center;
-}
-
-.navigation a:hover{
-  background-color: gray;
-}
-
-.navigation a:active{
-  background-color: lightblue;
-}
-
-@media screen and (max-width: 500px){
-  .navigation a{
-    float: none;
-    display: block;
-    width: 100%;
-    text-align: left;
-  }
-
-#aboutme{
-  text-align: center;
-}
-
-#projects{
-  text-align:center;
-}
-
-#resume{
-  text-align: center;
-}
-
-#contactme{
-  text-align: center;
-*/
