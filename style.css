@@ -105,6 +105,10 @@ section a:visited{
   color: purple;
 }
 
+.everything{
+  width: 50%;
+}
+
 html{
   scroll-bahavior: smooth;
 }
