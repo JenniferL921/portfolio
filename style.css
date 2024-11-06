@@ -94,15 +94,20 @@ section h1{
 }
 
 section a{
-  color: lightgray;
+  text-decoration: none;
+  color: gray;
 }
 
 section a:hover{
-  text-decoration: gray;
+  text-decoration: underline;
 }
 
 section a:visited{
   color: darkgray;
+}
+
+section a:active{
+  color: black;
 }
 
 html{
