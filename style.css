@@ -79,7 +79,11 @@ section h1{
   font-size: 35px;
 }
 
-.appimg{
+#nycImg{
+  width: 50%;
+}
+
+#cloudImg{
   width: 50%;
 }
 
