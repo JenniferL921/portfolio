@@ -117,6 +117,10 @@ a:active{
   max-width: 1200px;
 }
 
+#contactme{
+  text-decoration: bold;
+}
+
 html{
   scroll-bahavior: smooth;
 }
