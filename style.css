@@ -94,12 +94,12 @@ section h1{
 }
 
 section a{
-  text-decoration: none;
+  text-decoration: underline;
   color: gray;
 }
 
 section a:hover{
-  text-decoration: underline;
+  color: blue;
 }
 
 section a:visited{
