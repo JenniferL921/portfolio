@@ -13,7 +13,7 @@
 
 #banner h1{
   text-align: center;
-  font-size: 10%;
+  font-size: 40%;
 }
 
 #banner h2{
@@ -107,6 +107,8 @@ section a:visited{
 
 .everything{
   width: 50%;
+  display: flex;
+  justify-content: center;
 }
 
 html{
