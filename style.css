@@ -9,12 +9,13 @@
   height: 100%;
   font-family: verdana, sans-serif;
   line-height: 1.6;
+  background-color: lightgray;
 }
 
 #banner h1{
   text-align: center;
   font-size: 30px;
-  height: 30px;
+  height: 50px;
   padding: 10px 10px;
 }
 
