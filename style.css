@@ -93,20 +93,20 @@ section h1{
   text-align: center;
 }
 
-section a{
+a{
   text-decoration: underline;
   color: gray;
 }
 
-section a:hover{
+a:hover{
   color: blue;
 }
 
-section a:visited{
+a:visited{
   color: darkgray;
 }
 
-section a:active{
+a:active{
   color: black;
 }
 
