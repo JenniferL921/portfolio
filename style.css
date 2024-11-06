@@ -92,6 +92,19 @@ section h1{
   margin: 0 auto;
   text-align: center;
 }
+
+a{
+  color: blue;
+}
+
+a:hover{
+  text-decoration: underline;
+}
+
+a:visited{
+  color: purple;
+}
+
 html{
   scroll-bahavior: smooth;
 }
