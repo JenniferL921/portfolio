@@ -112,6 +112,10 @@ a:active{
   color: black;
 }
 
+#projects hr{
+  max-width: 1200px;
+}
+
 html{
   scroll-bahavior: smooth;
 }
