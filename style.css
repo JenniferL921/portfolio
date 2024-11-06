@@ -107,8 +107,6 @@ section a:visited{
 
 .everything{
   width: 50%;
-  display: flex;
-  justify-content: center;
 }
 
 html{
