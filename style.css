@@ -90,6 +90,7 @@ section h1{
 .content{
   max-width: 700px;
   margin: 0 auto;
+  text-align: center;
 }
 html{
   scroll-bahavior: smooth;
