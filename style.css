@@ -96,20 +96,20 @@ section h1{
   text-align: center;
 }
 
-a{
+h4, a{
   text-decoration: underline;
   color: gray;
 }
 
-a:hover{
+h4, a:hover{
   color: black;
 }
 
-a:visited{
+h4, a:visited{
   color: black;
 }
 
-a:active{
+h4, a:active{
   color: black;
 }
 
