@@ -106,11 +106,11 @@ a:hover{
 }
 
 a:visited{
-  color: black;
+  color: #727272;
 }
 
 a:active{
-  color: black;
+  color: #909090;
 }
 
 #projects hr{
