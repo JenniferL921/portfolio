@@ -98,7 +98,7 @@ section h1{
 
 a{
   text-decoration: underline;
-  color: gray;
+  color: #808080;
 }
 
 a:hover{
@@ -106,11 +106,11 @@ a:hover{
 }
 
 a:visited{
-  color: #727272;
+  color: #404040;
 }
 
 a:active{
-  color: #909090;
+  color: #606060;
 }
 
 #projects hr{
