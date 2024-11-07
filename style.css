@@ -97,19 +97,20 @@ section h1{
 }
 
 a{
-  text-decoration: underline;
+  text-decoration: none;
   color: gray;
 }
 
-h4, a:hover{
+a:hover{
+  color: black;
+  text-decoration: underline;
+}
+
+a:visited{
   color: black;
 }
 
-h4, a:visited{
-  color: black;
-}
-
-h4, a:active{
+a:active{
   color: black;
 }
 
