@@ -96,10 +96,13 @@ section h1{
   text-align: center;
 }
 
+section a{
+  font-weight: bold;
+}
+
 a{
   text-decoration: underline;
   color: #A0A0A0;
-  font-weight: bold;
 }
 
 a:hover{
