@@ -33,6 +33,7 @@
   text-align: center;
   overflow: hidden;
   margin: 0;
+  padding: 10px 0;
 }
 
 .navbar ul{
@@ -43,7 +44,7 @@
 
 .navbar ul li{
   display: inline;
-  font-size: 30px;
+  font-size: 25px;
   margin: 0 15px;
 }
 
