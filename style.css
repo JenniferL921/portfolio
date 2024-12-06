@@ -120,3 +120,11 @@ a:active{
 html{
   scroll-bahavior: smooth;
 }
+
+footer img{
+  display: flex;
+  float: right;
+  padding-bottom: 20px;
+  padding-right: 20px;
+  
+}
