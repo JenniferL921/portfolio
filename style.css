@@ -48,6 +48,10 @@
   font-weight: bold;
 }
 
+.navbar li a{
+  font-size: 20px;
+}
+
 .navbar ul li a:hover{
   text-decoration: underline;
 }
