@@ -82,7 +82,7 @@ p, a{
 .content{
   max-width: 1000px;
   margin: 0 auto;
-  text-align: center;
+  text-align: left;
 }
 
 section a{
