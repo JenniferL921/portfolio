@@ -67,9 +67,14 @@ section{
   text-align: center;
 }
 
-p, a{
+p{
     font-size: 15px;
     text-align: left;
+}
+
+a{
+  font-size: 15px;
+  text-align: center;
 }
 
 #nycImg{
