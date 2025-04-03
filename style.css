@@ -117,11 +117,12 @@ a:active{
 }
 
 #projects hr{
-  max-width: 1600px;
+  max-width: 1800px;
 }
 
 #contactme{
-  font-weight: bold;
+  font-weight: bold;  
+  text-align: center;
 }
 
 html{
@@ -134,8 +135,4 @@ footer img{
   padding-right: 10px;
   padding-bottom: 10px;
   
-}
-
-footer{
-  text-align: center;
 }
