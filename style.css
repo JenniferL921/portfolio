@@ -67,8 +67,12 @@ section{
   text-align: center;
 }
 
-.content p h2 h3{
+.content p{
   font-size: 15px;
+  text-align: left;
+}
+
+section h2 h3{
   text-align: left;
 }
 
