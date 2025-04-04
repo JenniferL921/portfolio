@@ -127,7 +127,7 @@ a:active{
 
 #contactme p{
   text-align: left;
-  align: center;
+  float: center;
 }
 
 html{
